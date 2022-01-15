@@ -10,6 +10,7 @@ public class Test {
         System.out.println("8. Changes from GitHub.");
         System.out.println("9. Changes from GitHub.");
         System.out.println("1.New branch");
+        System.out.println("1. Changes for New branch from GitHub.");
 
 
 
