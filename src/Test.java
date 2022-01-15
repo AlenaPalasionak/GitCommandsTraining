@@ -4,6 +4,6 @@ public class Test {
         System.out.println("2. Changes from Idea.");
         System.out.println("3. Changes from Idea.");
         System.out.println("4. Changes from GitHub.");
-        System.out.println("5. Changes from Idea.");
+        
     }
 }
