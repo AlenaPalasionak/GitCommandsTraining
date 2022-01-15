@@ -12,6 +12,7 @@ public class Test {
         System.out.println("1.New branch");
         System.out.println("1. Changes for New branch from GitHub.");
         System.out.println("2. Changes for New branch from GitHub.");
+        System.out.println("3. Changes for  branch \"third\" from GitHub.");
 
 
 
