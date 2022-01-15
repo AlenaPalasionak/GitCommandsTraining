@@ -7,6 +7,9 @@ public class Test {
         System.out.println("5. Changes from GitHub.");
         System.out.println("6. Changes from GitHub.");
         System.out.println("7. Changes from GitHub.");
+        System.out.println("8. Changes from GitHub.");
+        System.out.println("9. Changes from GitHub.");
+
 
 
 
